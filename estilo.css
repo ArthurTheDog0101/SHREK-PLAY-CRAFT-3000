@@ -1,0 +1,17 @@
+:root{
+    --branco_principal: "#ffffff";
+    --preto: "#000000";
+    
+}
+
+
+
+body{
+    background-color: var(--preto);
+    color: var(--branco_principal);
+}
+
+section{
+    width: 1400px;   
+    
+}
